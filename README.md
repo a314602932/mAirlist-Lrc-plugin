@@ -1,6 +1,5 @@
 # mAirList Lyrics Overlay (v0.9.7)
 
-好的——下面是**英文描述**，你可以直接放到 GitHub 项目简介或 README 开头用：
 
 ---
 
